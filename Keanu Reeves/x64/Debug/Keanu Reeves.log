@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(29,47): warning C4013: 'rand' undefined; assuming extern returning int
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(32,22): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(44,22): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(94,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(104,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(115,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(116,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(117,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(126,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(127,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(146,11): warning C4133: 'function': incompatible types - from 'Boss *' to 'Player *'
+C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\Keanu Reeves\Source.c(146,21): warning C4133: 'function': incompatible types - from 'Player *' to 'Boss *'
+  Keanu Reeves.vcxproj -> C:\Users\merli\OneDrive\Bureau\H3\Keanu Reeves\x64\Debug\Keanu Reeves.exe
